@@ -11,7 +11,7 @@
     <!-- Define the classpath which includes the junit.jar and the classes after all compiling-->
     <path id="junit.class.path"> 
         <pathelement location="lib/junit-4.12.jar" />
-        <pathelement location="lib/hamcrest-core-1.3.jar" />
+        <pathelement location="lib/hamcrest-core-1.3.jar.this is a test" />
         <pathelement location="src" />
         <pathelement location="bin" />
     </path>
